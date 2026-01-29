@@ -13,16 +13,7 @@ A modern, interactive portfolio showcasing AI/ML projects, game development, and
 - [🛠️ Tech Stack](#️-tech-stack) 
 - [🚀 Quick Start](#-quick-start)
 - [📁 Project Structure](#-project-structure)
-- [🎨 Customization Guide](#-customization-guide)
-- [📱 Pages & Sections](#-pages--sections)
-- [🎯 Featured Projects](#-featured-projects)
-- [💻 Code Integration Details](#-code-integration-details)
-- [🎮 The BraitenBots Project](#-the-braitenbots-project)
-- [🔧 Development & Deployment](#-development--deployment)
-- [📄 License](#-license)
-- [🙏 Acknowledgments](#-acknowledgments)
 
----
 
 ## 🌟 Features
 
