@@ -70,32 +70,17 @@ A modern, interactive portfolio showcasing AI/ML projects, game development, and
 python -m http.server 8000
 
 # Or simply open index.html directly in your browser
+
+            
+      # This documentation file
+
+
 portfolio/
-│
-├── index.html              # Main HTML file with inline CSS & JS
-├── style.css               # Main stylesheet (external CSS)
-├── assets/                 # All static assets
-│   ├── profile.png         # Homepage avatar image
-│   ├── me.png             # About page larger photo
-│   ├── Ankit_CV.pdf       # Resume PDF for download
-│   ├── projects/          # Project background images (9 images)
-│   │   ├── exai-bg.jpg
-│   │   ├── intellicalc-bg.jpg
-│   │   ├── skillpulse-bg.jpg
-│   │   ├── motion-bg.jpg
-│   │   ├── zerotouch-bg.jpg
-│   │   ├── eurovault-bg.jpg
-│   │   ├── echobot-bg.jpg
-│   │   ├── aicade-bg.jpg
-│   │   ├── braitenbots-bg.jpg    # NEW: Added project
-│   │   └── weather-bg.jpg
-│   └── travel/            # Travel gallery images (optional)
-│       ├── travel1.jpg
-│       ├── travel2.jpg
-│       ├── travel3.jpg
-│       ├── travel4.jpg
-│       ├── travel5.jpg
-│       └── travel6.jpg
-│
-└── README.md              # This documentation file
+├── index.html
+├── style.css
+├── assets/
+│   ├── profile.png, me.png
+│   ├── projects/ (10+ background images)
+│   └── travel/ (gallery images)
+└── README.md      
 
