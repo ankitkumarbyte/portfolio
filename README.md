@@ -3,8 +3,7 @@
 A modern, interactive portfolio showcasing AI/ML projects, game development, and entrepreneurial journey with cutting-edge design and user experience.
 
 ## ✨ Live Demo
-**[https://ankitkumarbyte.github.io/portfolio](https://ankitkumarbyte.github.io/portfolio)** 
-
+**https://ankitkumarbyte.vercel.app/**
 ---
 
 ## 📋 Table of Contents
